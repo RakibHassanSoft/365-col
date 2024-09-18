@@ -1,1 +1,3 @@
-const button=   document.getElementById('Emon')
+const button=   document.getElementById('emon')
+
+button.classList.add('bg')
